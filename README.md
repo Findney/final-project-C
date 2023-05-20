@@ -8,4 +8,5 @@ The sorting results are then stored in a binary file with a certain order.
 Then the program must also be able to display a maximum of n words with the highest score on the monitor screen. 
 The value of n is input by the user via the keyboard.
 
-![Input File Name](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic1.png)
+## Input File Name
+![Input_File_Name](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic1.png)
