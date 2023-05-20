@@ -8,6 +8,26 @@ The sorting results are then stored in a binary file with a certain order.
 Then the program must also be able to display a maximum of n words with the highest score on the monitor screen. 
 The value of n is input by the user via the keyboard.
 
-## Demo
+## Demonstration
 ### Input File Name
 ![Input_File_Name](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic1.png)
+
+### Looks Program
+![Looks Program](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic2.png)
+
+### When Invalid Input
+![When Invalid Input](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic4.png)
+
+### Looks Program When Select Second Choice From The Start
+![When Select Choice Two From The Start](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic3.png)
+
+### When Select First Choice
+![When Select First Choice](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic5.png)
+
+### Looks Program When Select Second Choice After First Choice
+![Looks Program When Select Second Choice After First Choice](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic6.png)
+
+### When Select Last Choice
+![When Select Last Choice](https://github.com/Findney/final-project-C-USK/blob/main/pictures/pic7.png)
+
+
