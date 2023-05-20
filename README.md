@@ -1,4 +1,5 @@
-# Final Project Built Using C Language
+# Final Project 
+College project built Using C Language
 
 This final project is done to fulfill the assignment for the "Programming" course. 
 This final project is also referred to as the Big Challenge project which is equivalent to the final semester exam. 
